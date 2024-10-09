@@ -1,4 +1,4 @@
-<Exbordia>
+<header>
 
 <!--
   <<< Author notes: Course header >>>
@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Exbordia ReadMe
 
 _Get started using GitHub in less than an hour._
 
